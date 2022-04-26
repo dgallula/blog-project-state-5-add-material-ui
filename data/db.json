@@ -1,0 +1,83 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "my first blog",
+      "body": "i love React.",
+      "author": "David Gallula"
+    },
+    {
+      "id": 2,
+      "title": "My second blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Dor"
+    },
+    {
+      "id": 3,
+      "title": "Cool blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Sara"
+    },
+    {
+      "id": 4,
+      "title": "My first blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Moshe Chaim"
+    },
+    {
+      "id": 5,
+      "title": "My first blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Moshe Chaim"
+    },
+    {
+      "id": 6,
+      "title": "My first blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Moshe Chaim"
+    },
+    {
+      "id": 7,
+      "title": "My first blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Moshe Chaim"
+    },
+    {
+      "title": "My first blog",
+      "body": "Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.Learning React with a bit of back-end.",
+      "author": "Moshe Chaim",
+      "id": 8
+    },
+    {
+      "title": "title",
+      "author": "sari",
+      "body": "blog data is very coooooolllllllllll",
+      "id": 9
+    },
+    {
+      "title": "title 1 ",
+      "author": "sari2 ",
+      "body": "blog data is very coooooolllllllllll 3",
+      "id": 10
+    },
+    {
+      "title": "title",
+      "author": "July",
+      "body": "bodddyyyyyyyyyyyyyyyyyyyyyyyyy",
+      "id": 11
+    },
+    {
+      "title": "",
+      "author": "pppp",
+      "body": "pp",
+      "id": 12
+    },
+    
+    {
+      "title": "Zahor , souviens toi",
+      "author": "David Gallula",
+      "body": "Parasha Zahor \n\nIl est essentiel pour chaque individu , les hommes et les femmes d’écouter avec concentration  la parasha de de Zahor .\nC’est l’avis du Mishna Beroura et du Kaf hahaim notamment. \nOn ne pense pas uniquement à  la vengeance contre Amalek  qui décréta l’extermination sans aucune distinction des hommes mais aussi des femmes et des enfants.\n \nOn se souviendra aussi de tous les atrocités de Amalek et de ses descendants , dont les Nazis  durant la Shoa.\n\nIl faudra penser au moment de la lecture à s acquitter de  l’obligation positive de la thora « Souviens toi \"",
+      "id": 14
+    }
+  ]
+}
